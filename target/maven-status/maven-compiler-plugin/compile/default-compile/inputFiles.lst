@@ -1,0 +1,10 @@
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/RatingApplication.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/config/OpenApiConfig.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/config/SecurityConfig.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/controller/RatingController.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/model/Rating.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/model/dto/ApiResponseDTO.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/model/dto/RatingRequestDTO.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/model/dto/RatingResponseDTO.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/repository/RatingRepository.java
+/media/data/Code/Goviya-Backend/goviya-rating-service/src/main/java/com/nalaka/goviya/service/RatingService.java

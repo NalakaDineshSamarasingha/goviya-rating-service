@@ -1,0 +1,10 @@
+com/nalaka/goviya/service/RatingService.class
+com/nalaka/goviya/controller/RatingController.class
+com/nalaka/goviya/model/dto/RatingRequestDTO.class
+com/nalaka/goviya/repository/RatingRepository.class
+com/nalaka/goviya/model/dto/ApiResponseDTO.class
+com/nalaka/goviya/config/OpenApiConfig.class
+com/nalaka/goviya/model/Rating.class
+com/nalaka/goviya/RatingApplication.class
+com/nalaka/goviya/config/SecurityConfig.class
+com/nalaka/goviya/model/dto/RatingResponseDTO.class

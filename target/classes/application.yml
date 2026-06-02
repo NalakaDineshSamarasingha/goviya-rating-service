@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: GOVIYA-RATING-SERVICE
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080
+        enabled: true
+        auto-registration: true
+  profiles:
+    active: local
+
+server:
+  port: 8084
+  servlet:
+    context-path: /api/goviya-rating-core
+
+swagger:
+  server-url: http://localhost:8084
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    doc-expansion: none
