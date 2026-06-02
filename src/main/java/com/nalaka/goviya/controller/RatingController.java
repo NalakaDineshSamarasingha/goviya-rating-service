@@ -17,6 +17,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/ratings")
+@CrossOrigin(origins = "*")
 @Tag(name = "Rating & Review Management", description = "APIs for user ratings and reviews")
 public class RatingController {
 
