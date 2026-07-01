@@ -4,19 +4,19 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:8080
+        url: http://localhost:9184
         enabled: true
         auto-registration: true
   profiles:
     active: local
 
 server:
-  port: 8084
+  port: 9184
   servlet:
     context-path: /api/goviya-rating-core
 
 swagger:
-  server-url: http://165.245.191.211:8084
+  server-url: http://52.118.205.242:9184
 
 springdoc:
   swagger-ui:
